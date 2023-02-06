@@ -1,4 +1,4 @@
-# nPaper
+# nPaper for SkylyMC
 <p align="center">
 A fork of Paper 1.7 with changes (optimizations, 1.8 client interaction & features).
   <br>
